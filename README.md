@@ -38,16 +38,6 @@ I like to make hacking/pentest oriented tools.*
 
 <a href="#"><img src="https://img.shields.io/badge/Windows_10-For editing and playing-100000?style=for-the-badge&logo=Windows&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-
-*Machine Information*
-
-<a href="#"><img src="https://img.shields.io/badge/Dell-OPTIPLEX_7090 [DDR4]-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img src="https://img.shields.io/badge/RAM-6GB_2x8GB-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img src="https://img.shields.io/badge/Process-Intel® Core™ i9-100000?style=for-the-badge&logo=Dell&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-
 *Languages I program in*
 
 <a href="#"><img src="https://img.shields.io/badge/Python-Medium-100000?style=for-the-badge&logo=Python&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
