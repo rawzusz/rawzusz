@@ -48,16 +48,6 @@ I like to make hacking/pentest oriented tools.*
 
 <a href="#"><img src="https://img.shields.io/badge/php-For_web development only-100000?style=for-the-badge&logo=PHP&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-*Editors I use*
-
-<a href="#"><img src="https://img.shields.io/badge/Editor-VIM-100000?style=for-the-badge&logo=VIM&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img src="https://img.shields.io/badge/Editor-Sublime_Text-100000?style=for-the-badge&logo=Sublime Text&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img src="https://img.shields.io/badge/Editor-Neovim-100000?style=for-the-badge&logo=Neovim&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img src="https://img.shields.io/badge/Editor-PyCharm-100000?style=for-the-badge&logo=PyCharm&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
 ##
 
 ## Thanks for accessing my profile, goodbye little friend!
