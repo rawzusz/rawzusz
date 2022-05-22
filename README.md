@@ -1,14 +1,14 @@
 <img alt="" src="https://c.tenor.com/x0OZJJFjCRQAAAAC/monkey-pissed.gif">
 
-> Silence, rawzusz is programming...
+> Silence, rawzu is programming...
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=Hello%2C+welcome+to+my+github!;Be+a+good+boy+and+give+stars+to+my+projects!;My+name+is+fatalsec">
+<img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=Hello%2C+welcome+to+my+github!;Be+a+good+boy+and+give+stars+to+my+projects!;My+name+is+rawzu">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7759b5&height=300&section=header&text=Fatalsec&fontSize=90&desc=I am a developer! (or trying to be)&animation=fadeIn&fontColor=ac7ed6&descSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=7759b5&height=300&section=header&text=rawzu&fontSize=90&desc=I am a developer! (or trying to be)&animation=fadeIn&fontColor=ac7ed6&descSize=30"/>
 
-<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=fatals3c&cc=000000&tc=7759b5&ic=9c6bff&bc=402773"/>
+<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=rawzusz&cc=000000&tc=7759b5&ic=9c6bff&bc=402773"/>
 
 ##
 
@@ -20,7 +20,7 @@
 **Profile:**
 
 
-<img src="https://metrics.lecoq.io/fatals3c?template=classic&base.community=0&base.repositories=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=UTC">
+<img src="https://metrics.lecoq.io/rawzusz?template=classic&base.community=0&base.repositories=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=UTC">
 
 
 ##
@@ -93,15 +93,15 @@ I like to make hacking/pentest oriented tools.*
 
 **My contacts:**
 
-<a href="malito:fatalsec@dnmx.org" target="_blank"><img alt="" src="https://img.shields.io/badge/DNMX-EMAIL-100000?style=for-the-badge&logo=&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="malito:rawzu@dnmx.org" target="_blank"><img alt="" src="https://img.shields.io/badge/DNMX-EMAIL-100000?style=for-the-badge&logo=&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-<a href="https://www.instagram.com/fatalledits/" target="_blank"><img alt="INSTAGRAM" src="https://img.shields.io/badge/FATALSEC-INSTAGRAM-100000?style=for-the-badge&logo=INSTAGRAM&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="https://www.instagram.com/fatalledits/" target="_blank"><img alt="INSTAGRAM" src="https://img.shields.io/badge/rawzu-INSTAGRAM-100000?style=for-the-badge&logo=INSTAGRAM&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-<a href="https://t.me/fatalsec" target="_blank"><img alt="TELEGRAM" src="https://img.shields.io/badge/FATALSEC-TELEGRAM-100000?style=for-the-badge&logo=TELEGRAM&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="https://t.me/rawzu" target="_blank"><img alt="TELEGRAM" src="https://img.shields.io/badge/rawzu-TELEGRAM-100000?style=for-the-badge&logo=TELEGRAM&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-<a href="https://twitter.com/f4t4lsec" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/FATALSEC-TWITTER-100000?style=for-the-badge&logo=twitter&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="https://twitter.com/f4t4lsec" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/rawzu-TWITTER-100000?style=for-the-badge&logo=twitter&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-<a href="https://www.youtube.com/channel/UCVroJZsK3Qrvtvnk7NCKn-A" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/FATALSEC-YOUTUBE-100000?style=for-the-badge&logo=youtube&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="https://www.youtube.com/channel/UCVroJZsK3Qrvtvnk7NCKn-A" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/rawzu-YOUTUBE-100000?style=for-the-badge&logo=youtube&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 <a href="https://t.me/+0GyvzDcKtwY2ODc5" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/archon-group-100000?style=for-the-badge&logo=telegram&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
@@ -111,7 +111,7 @@ I like to make hacking/pentest oriented tools.*
 
 <a href="https://teamroot.com.br/" target="_blank"><img alt="GNU bash" src="https://img.shields.io/badge/TEAM_ROOT-SITE-100000?style=for-the-badge&logo=GNU bash&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-<a href="https://fatalsec.keybase.pub/" target="_blank"><img alt="keybase" src="https://img.shields.io/badge/FATALSEC-KEYBASE-100000?style=for-the-badge&logo=keybase&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
+<a href="https://rawzu.keybase.pub/" target="_blank"><img alt="keybase" src="https://img.shields.io/badge/rawzu-KEYBASE-100000?style=for-the-badge&logo=keybase&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 <a href='https://www.youtube.com/channel/UCm1zkDjD_rqTn3GxS0gzzUg' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/archon-youtube-100000?style=for-the-badge&logo=youtube&logoColor=7759b5&labelColor=212121&color=7759b5'/></a>
 
