@@ -1,6 +1,6 @@
 <img alt="" src="https://c.tenor.com/x0OZJJFjCRQAAAAC/monkey-pissed.gif">
 
-> Silence, fatalsec is programming...
+> Silence, rawzusz is programming...
 
 
 
